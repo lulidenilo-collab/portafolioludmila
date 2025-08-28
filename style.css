@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to bottom, #f8d7e5, #e8d1f1, #f0cce0);
+  color: #000000;
+  text-align: center;
+  padding: 20px;
+}
+
+.nombre {
+  font-size: 3em;
+  font-weight: bold;
+  color: #c653c6;
+  margin-bottom: 10px;
+}
+
+.subtitulo {
+  font-size: 1.5em;
+  margin-top: 0;
+  color: #333;
+}
+
+.seccion-titulo {
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #4a004a;
+}
+
+.texto {
+  font-size: 1.2em;
+  max-width: 800px;
+  margin: 0 auto 25px auto;
+  padding: 10px;
+}
+
+.mi-foto {
+  max-width: 300px;
+  border-radius: 50%;
+  margin-top: 30px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+#header {
+  background-color: #f2e0f7;
+  padding: 30px 10px;
+  border-bottom: 2px solid #e2b4eb;
+}
+
+#sobre-mi, #experiencia {
+  background-color: #fde9f2;
+  margin: 20px 0;
+  border-left: 5px solid #d088d0;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+#foto {
+  background-color: #f8d7e5;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.pie {
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #333;
+}
